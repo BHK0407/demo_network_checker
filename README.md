@@ -1,4 +1,3 @@
-![Result](https://github.com/BHK0407/demo_network_checker/assets/152870369/aa0d86b3-dd98-4937-90dc-10dedf0d3ca1)
 # Network Configuration Checker
 
 This PowerShell script checks network configuration settings such as IP address, subnet mask, default gateway, and DNS server addresses, and displays the results in the console.
@@ -23,7 +22,7 @@ This PowerShell script checks network configuration settings such as IP address,
 
 ## Example Output
 
-![Result from Checking Network]([https://drive.google.com/drive/u/0/folders/1hsZuHZzMLoDf09pYfPFF9TMjZXqPa0CK](https://drive.google.com/file/d/1ltd4wwXtrcagWO18f2-fA60uXXGg0iHO/view?usp=drive_link))
+![Result from Checking Network](https://drive.google.com/file/d/1ltd4wwXtrcagWO18f2-fA60uXXGg0iHO/view)
 
 ## License
 
