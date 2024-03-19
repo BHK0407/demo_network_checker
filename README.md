@@ -22,8 +22,7 @@ This PowerShell script checks network configuration settings such as IP address,
 
 ## Example Output
 
-![Result from Checking Network]([https://drive.google.com/file/d/1ltd4wwXtrcagWO18f2-fA60uXXGg0iHO/view](https://drive.google.com/uc?export=download&id=1ltd4wwXtrcagWO18f2-fA60uXXGg0iHO
-))
+![Result from Checking Network](https://drive.google.com/uc?export=download&id=1ltd4wwXtrcagWO18f2-fA60uXXGg0iHO)
 
 ## License
 
