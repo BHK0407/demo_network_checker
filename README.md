@@ -23,6 +23,8 @@ This PowerShell script checks network configuration settings such as IP address,
 ## Example Output
 
 ![Result from Checking Network](https://drive.google.com/uc?export=download&id=1ltd4wwXtrcagWO18f2-fA60uXXGg0iHO)
+![Ghidra reverse engineering](https://drive.google.com/file/d/1La0wAYa_W9WSO8sxyv-9EpSCYFCfAw_0/view?usp=drive_link)
+
 
 ## License
 
